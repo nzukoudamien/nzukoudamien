@@ -17,7 +17,7 @@
 
 ### 🖥️ Programming Languages & Scripts
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,py,go,c,bash,vim,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,lua,go,nim,c,bash,vim,html,css&theme=dark" alt="Languages" />
 </p>
 
 ### 🎮 Game Engines & Frameworks
